@@ -1,0 +1,9 @@
+.cat img {
+max-height: 200px;
+max-width:200px;
+}
+
+body{
+display:flex;
+justify-content: center;
+}
